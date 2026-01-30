@@ -1,0 +1,7 @@
+- Dataset contains student academic and social attributes.
+- No missing values found.
+- Absences showed right skewness with multiple outliers.
+- IQR method used for outlier detection.
+- Outliers were capped instead of removed to preserve data.
+- Strong correlation observed between G1, G2, and G3.
+- Failures negatively impact final grades.
